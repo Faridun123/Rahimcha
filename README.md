@@ -1,6 +1,6 @@
 # Fetch 
 #The fetch() method in JavaScript is used to request data from a server. The request can be of any type of API that return the data in JSON or XML. The fetch() method requires one parameter, the URL to request, and returns a promise.
-![1]()
+![1](./Img/img%201.jpg)
 #Parameters: This method requires one parameter and accepts two parameters:
 
 #### 1 URL: It is the URL to which the request is to be made. Options: It is an array of properties. It is an optional parameter.
